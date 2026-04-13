@@ -7,7 +7,7 @@ from openai import AsyncOpenAI
 
 # ================= CONFIGURATION =================
 
-API_KEY = "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"
+API_KEY = "API_KEY"
 
 FIRMS = {
     "F1": "openai/gpt-5.4",
